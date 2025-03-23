@@ -1,6 +1,22 @@
-## Hi there 👋
+## _Hello, I'm Mark!_ 🌻
 
-<!--
+Currently, I am trying to explore different fields of IT to discover what I truly enjoy. 🙂
+
+### Information About Me
+- 1st Year College Student
+- College Degree Program: Bachelor of Science in Information Technology
+- Interests: Software Development, Web Development, Programming, and Art.
+
+### 🌱 Languages I am currently learning
+- Python
+- Java
+- HTML
+
+### 📫 Contact Me!
+If you would like to reach out, collaborate, and connect, do not hesitate to send me a message! 😄
+
+<!--!
+
 **mrktndc/mrktndc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
