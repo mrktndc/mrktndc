@@ -12,9 +12,6 @@ Currently, I am trying to explore different fields of IT to discover what I trul
 - Java
 - HTML
 
-### 📫 Contact Me!
-If you would like to reach out, collaborate, and connect, do not hesitate to send me a message! 😄
-
 <!--!
 
 **mrktndc/mrktndc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
